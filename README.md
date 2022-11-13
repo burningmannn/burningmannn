@@ -13,6 +13,8 @@ class daniilshutkin: Developer {
     "linkedin.com/in/burningmannn",
     // email
     "danya.message@gmail.com"
+    //freefy
+    "www.app.freefy.online/playlist/947"
   ]
 }
 ```
